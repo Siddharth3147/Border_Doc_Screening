@@ -1,0 +1,16 @@
+opencv-python
+numpy
+Pillow
+pytesseract
+deepface
+tf-keras
+streamlit
+matplotlib
+fpdf2
+
+# Optional but recommended - enables the real AI-generated document
+# detection module (ai_generated_check.py). Adds ~1-2 GB download the
+# first time (model weights + torch). App still works without these,
+# that one check will just be skipped.
+transformers
+torch
